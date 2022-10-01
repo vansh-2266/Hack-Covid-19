@@ -4,9 +4,9 @@ In this website a person will get all necessary information they need to have du
 
 // Requirements of System & Software to run this projects:
 
-Django
-tensorflow
-imutils
-requests
-opencv-python
-beautifulsoup4
+Django, 
+tensorflow, 
+imutils, 
+requests, 
+opencv-python,  
+beautifulsoup4.
